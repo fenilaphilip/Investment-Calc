@@ -1,6 +1,8 @@
+import UserInput from "./components/UserInput"
+
 function App() {
   return (
-    <h1>Calculator</h1>
+    <UserInput />
   )
 }
 
